@@ -1,3 +1,5 @@
+package common
+
 type production struct {
 	MegaCredits interger
 	Steel       integer
